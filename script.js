@@ -1,0 +1,1 @@
+document.querySelectorAll(".btn").forEach(b=>b.onmouseover=()=>b.style.transform="scale(1.03)");document.querySelectorAll(".btn").forEach(b=>b.onmouseout=()=>b.style.transform="scale(1)");
